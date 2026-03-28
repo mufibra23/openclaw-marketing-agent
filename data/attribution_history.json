@@ -1,0 +1,21 @@
+{
+  "queries": [
+    {
+      "timestamp": "2026-03-28T15:38:35.005605",
+      "query": "Which channel should get more budget?",
+      "query_type": "budget",
+      "data_source": "p6_precomputed",
+      "top_channel": "organic_search",
+      "agreement_score": 90.0
+    },
+    {
+      "timestamp": "2026-03-28T15:38:58.951506",
+      "query": "Compare organic vs paid search",
+      "query_type": "comparison",
+      "data_source": "p6_precomputed",
+      "top_channel": "organic_search",
+      "agreement_score": 90.0
+    }
+  ],
+  "last_query": "2026-03-28T15:38:58.951506"
+}

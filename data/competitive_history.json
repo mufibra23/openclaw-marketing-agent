@@ -1,0 +1,158 @@
+{
+  "scans": [
+    {
+      "timestamp": "2026-03-28T14:49:30.680934",
+      "competitors": [
+        "shopify",
+        "woocommerce",
+        "bigcommerce"
+      ],
+      "data_source": "live",
+      "results": {
+        "shopify": {
+          "total_citations": 9,
+          "share_of_voice": 33.33,
+          "sentiment_score": 0.333,
+          "quality_score": 73.7,
+          "positive_mentions": 4,
+          "negative_mentions": 1,
+          "top_contexts": [
+            "shopify leads the market with its mobile app features",
+            "shopify is a popular choice for remote teams",
+            "You might also consider shopify for startups"
+          ]
+        },
+        "woocommerce": {
+          "total_citations": 11,
+          "share_of_voice": 40.74,
+          "sentiment_score": 0.182,
+          "quality_score": 100.0,
+          "positive_mentions": 5,
+          "negative_mentions": 3,
+          "top_contexts": [
+            "woocommerce leads the market with its free tier features",
+            "woocommerce can be expensive for small teams, especially as you scale",
+            "woocommerce stands out with its integration ecosystem capabilities"
+          ]
+        },
+        "bigcommerce": {
+          "total_citations": 7,
+          "share_of_voice": 25.93,
+          "sentiment_score": 0.0,
+          "quality_score": 47.4,
+          "positive_mentions": 2,
+          "negative_mentions": 2,
+          "top_contexts": [
+            "bigcommerce may be overkill if you only need simple contact management",
+            "bigcommerce offers contact management as part of its platform",
+            "You might also consider bigcommerce for small teams under 20 people"
+          ]
+        }
+      },
+      "changes_detected": 0
+    },
+    {
+      "timestamp": "2026-03-28T14:54:38.615940",
+      "competitors": [
+        "shopify",
+        "woocommerce",
+        "bigcommerce"
+      ],
+      "data_source": "live",
+      "results": {
+        "shopify": {
+          "total_citations": 11,
+          "share_of_voice": 47.83,
+          "sentiment_score": 0.182,
+          "quality_score": 100.0,
+          "positive_mentions": 5,
+          "negative_mentions": 3,
+          "top_contexts": [
+            "While shopify is powerful, the learning curve can be steep",
+            "Another option worth exploring is shopify",
+            "shopify is widely regarded as the best option for B2B companies"
+          ]
+        },
+        "woocommerce": {
+          "total_citations": 6,
+          "share_of_voice": 26.09,
+          "sentiment_score": 0.0,
+          "quality_score": 50.0,
+          "positive_mentions": 2,
+          "negative_mentions": 2,
+          "top_contexts": [
+            "While woocommerce is powerful, the learning curve can be steep",
+            "While woocommerce is powerful, the learning curve can be steep",
+            "For solopreneurs, woocommerce is the most recommended solution"
+          ]
+        },
+        "bigcommerce": {
+          "total_citations": 6,
+          "share_of_voice": 26.09,
+          "sentiment_score": 0.833,
+          "quality_score": 61.1,
+          "positive_mentions": 5,
+          "negative_mentions": 0,
+          "top_contexts": [
+            "Many small businesses prefer bigcommerce for its free tier",
+            "Another option worth exploring is bigcommerce",
+            "For remote teams, bigcommerce is the most recommended solution"
+          ]
+        }
+      },
+      "changes_detected": 10
+    },
+    {
+      "timestamp": "2026-03-28T18:32:19.511711",
+      "competitors": [
+        "shopify",
+        "woocommerce",
+        "bigcommerce"
+      ],
+      "data_source": "live",
+      "results": {
+        "shopify": {
+          "total_citations": 3,
+          "share_of_voice": 12.5,
+          "sentiment_score": 0.0,
+          "quality_score": 15.0,
+          "positive_mentions": 1,
+          "negative_mentions": 1,
+          "top_contexts": [
+            "While shopify is powerful, the learning curve can be steep",
+            "You might also consider shopify for small teams under 20 people",
+            "shopify offers excellent free tier that makes it a top choice"
+          ]
+        },
+        "woocommerce": {
+          "total_citations": 9,
+          "share_of_voice": 37.5,
+          "sentiment_score": 0.111,
+          "quality_score": 60.0,
+          "positive_mentions": 4,
+          "negative_mentions": 3,
+          "top_contexts": [
+            "woocommerce provides reporting and analytics functionality",
+            "You might also consider woocommerce for startups",
+            "For remote teams, woocommerce is the most recommended solution"
+          ]
+        },
+        "bigcommerce": {
+          "total_citations": 12,
+          "share_of_voice": 50.0,
+          "sentiment_score": 0.5,
+          "quality_score": 100.0,
+          "positive_mentions": 6,
+          "negative_mentions": 0,
+          "top_contexts": [
+            "You might also consider bigcommerce for remote teams",
+            "For growing businesses, bigcommerce is the most recommended solution",
+            "You might also consider bigcommerce for startups"
+          ]
+        }
+      },
+      "changes_detected": 11
+    }
+  ],
+  "last_scan": "2026-03-28T18:32:19.511711"
+}
